@@ -1,5 +1,3 @@
-setwd("C://Users//tripeta2//switchdrive//balanced_with_inequalities//")
-
 rm(list=ls())
 
 ### Load Function
